@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/litefit-gh-pages/static/css/main.523f09c5.chunk.css",
+    "main.js": "/litefit-gh-pages/static/js/main.5d1f588a.chunk.js",
+    "main.js.map": "/litefit-gh-pages/static/js/main.5d1f588a.chunk.js.map",
+    "runtime-main.js": "/litefit-gh-pages/static/js/runtime-main.129671d6.js",
+    "runtime-main.js.map": "/litefit-gh-pages/static/js/runtime-main.129671d6.js.map",
+    "static/js/2.96471d27.chunk.js": "/litefit-gh-pages/static/js/2.96471d27.chunk.js",
+    "static/js/2.96471d27.chunk.js.map": "/litefit-gh-pages/static/js/2.96471d27.chunk.js.map",
+    "index.html": "/litefit-gh-pages/index.html",
+    "precache-manifest.b2614e02fe07eab5274caa5f46df4224.js": "/litefit-gh-pages/precache-manifest.b2614e02fe07eab5274caa5f46df4224.js",
+    "service-worker.js": "/litefit-gh-pages/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/litefit-gh-pages/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.96471d27.chunk.js.LICENSE.txt": "/litefit-gh-pages/static/js/2.96471d27.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/litefit-gh-pages/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.129671d6.js",
+    "static/js/2.96471d27.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.5d1f588a.chunk.js"
+  ]
+}
